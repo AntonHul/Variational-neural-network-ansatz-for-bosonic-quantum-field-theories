@@ -1,0 +1,14 @@
+numpy==1.26.4
+
+jax==0.4.35
+jaxlib==0.4.35
+
+dm-haiku==0.0.11
+optax>=0.2.3
+flax>=0.8.0
+
+pandas>=2.0
+pyarrow>=14.0
+
+tqdm
+matplotlib
